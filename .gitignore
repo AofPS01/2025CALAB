@@ -2,3 +2,6 @@ soc_verify/
 *.log
 *.tmp
 !soc_verify/*/*.bit
+module_verify/
+gettrace/
+func/
